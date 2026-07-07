@@ -98,17 +98,17 @@ START
 
 ---
 
-### 📊 Main Dashboard
+### 📊 Income Tracker
 <img width="1600" height="849" alt="Dashboard" src="https://github.com/user-attachments/assets/56faed1e-e37b-43aa-a61e-33f98c72bf12" />
 
 ---
 
-### 💰 Financial Management
+### 💵 Budget Planner
 <img width="1600" height="855" alt="Finance" src="https://github.com/user-attachments/assets/69f24bdb-4c76-439d-b6d8-d9c1f45bc55d" />
 
 ---
 
-### 💵 Budget Planner
+### 💰 Financial Management
 <img width="1600" height="846" alt="Budget" src="https://github.com/user-attachments/assets/a2fb1e4c-73cc-453a-852a-bc3a3a60d3e1" />
 
 ---

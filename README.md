@@ -128,12 +128,12 @@ START
 
 ---
 
-### 📅 Weekly Planner
+### ❤️ Health Tracker
 <img width="1600" height="1000" alt="Planner" src="https://github.com/user-attachments/assets/e7401103-9c15-453a-86ca-3d708897bd13" />
 
 ---
 
-### ❤️ Health Tracker
+### 📅 Weekly Planner
 <img width="1318" height="1017" alt="Health" src="https://github.com/user-attachments/assets/a34c6ca4-d0be-40df-9096-74cec7e75325" />
 
 ---
